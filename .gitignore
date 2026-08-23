@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+envs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Output files
+output/tensorboard/
+output/*.zip
+
+# Data files (optional, but can be large)
+# data/ieee_systems/
+
+# Windows
+Thumbs.db
+
+# OSX
+.DS_Store
+
+# Misc
+*.bak
+*.tmp
+*.temp
+*.swp
+
+# Documentation build
+_build/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+coverage.xml
