@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 DSS-Gymnasium-RL
+# 决策支持 RL 环境 | DSS-Gymnasium-RL
 
 ### Custom Gymnasium RL environments for a decision support system.
 
